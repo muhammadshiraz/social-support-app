@@ -18,7 +18,7 @@ If you just want to run and click around:
 
 ```bash
 # Clone the repo
-git clone https://github.com/muhammadshiraz/social-support-app.git social-support-app
+git clone https://github.com/muhammadshiraz/social-support-app.git
 cd social-support-app
 
 # Install dependencies
