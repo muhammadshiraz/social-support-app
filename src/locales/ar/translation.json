@@ -1,0 +1,88 @@
+{
+  "app": {
+    "title": "طلب الدعم الاجتماعي",
+    "subtitle": "قدّم طلب المساعدة المالية مع إرشادات ميسّرة"
+  },
+  "steps": {
+    "1": "المعلومات الشخصية",
+    "2": "معلومات الأسرة والوضع المالي",
+    "3": "وصف الحالة",
+    "progressAria": "مدى التقدّم في الطلب"
+  },
+  "navigation": {
+    "next": "التالي",
+    "back": "السابق",
+    "submit": "تقديم الطلب"
+  },
+  "lang": {
+    "english": "English",
+    "arabic": "العربية"
+  },
+  "step1": {
+    "title": "المعلومات الشخصية",
+    "name": "الاسم الكامل",
+    "nationalId": "رقم الهوية",
+    "dateOfBirth": "تاريخ الميلاد",
+    "gender": "الجنس",
+    "genderMale": "ذكر",
+    "genderFemale": "أنثى",
+    "genderOther": "آخر",
+    "address": "العنوان",
+    "city": "المدينة",
+    "state": "الولاية",
+    "country": "الدولة",
+    "phone": "رقم الهاتف",
+    "email": "البريد الإلكتروني"
+  },
+  "step2": {
+    "title": "معلومات الأسرة والوضع المالي",
+    "maritalStatus": "الحالة الاجتماعية",
+    "maritalSingle": "أعزب",
+    "maritalMarried": "متزوج",
+    "maritalDivorced": "مطلّق",
+    "maritalWidowed": "أرمل",
+    "dependents": "عدد المعالين",
+    "employmentStatus": "حالة العمل",
+    "employmentEmployed": "موظف",
+    "employmentUnemployed": "عاطل عن العمل",
+    "employmentSelfEmployed": "عمل حر",
+    "employmentRetired": "متقاعد",
+    "employmentStudent": "طالب",
+    "monthlyIncome": "الدخل الشهري",
+    "housingStatus": "وضع السكن",
+    "housingRent": "إيجار",
+    "housingOwn": "ملك",
+    "housingWithFamily": "مع العائلة",
+    "housingOther": "آخر"
+  },
+  "step3": {
+    "title": "وصف الحالة",
+    "currentFinancialSituation": "الوضع المالي الحالي",
+    "employmentCircumstances": "ظروف العمل",
+    "reasonForApplying": "سبب التقديم",
+    "helpMeWrite": "ساعدني في الكتابة",
+    "aiExplanation": "استخدم المساعد الذكي لوصف حالتك بوضوح واحترام."
+  },
+  "ai": {
+    "dialogTitle": "المساعد الذكي للكتابة",
+    "loading": "جاري إنشاء المقترح…",
+    "error": "تعذر إنشاء المقترح الآن. يرجى المحاولة مرة أخرى.",
+    "accept": "قبول",
+    "acceptEdit": "قبول وتعديل",
+    "discard": "إلغاء",
+    "placeholder": "سيظهر النص المقترح هنا..."
+  },
+  "submission": {
+    "successTitle": "تم إرسال الطلب",
+    "successMessage": "تم إرسال طلبك بنجاح. هذا إرسال تجريبي فقط.",
+    "errorTitle": "فشل إرسال الطلب",
+    "errorMessage": "حدث خطأ أثناء الإرسال. يرجى المحاولة مرة أخرى."
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "email": "يرجى إدخال بريد إلكتروني صالح",
+    "number": "يرجى إدخال رقم صحيح",
+    "date": "يرجى إدخال تاريخ صحيح",
+    "minAge": "يجب أن يكون عمرك 18 عاماً على الأقل"
+  }
+}

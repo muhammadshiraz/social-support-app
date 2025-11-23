@@ -1,0 +1,88 @@
+{
+  "app": {
+    "title": "Social Support Application",
+    "subtitle": "Apply for financial assistance with guided help"
+  },
+  "steps": {
+    "1": "Personal Information",
+    "2": "Family & Financial Information",
+    "3": "Situation Descriptions",
+    "progressAria": "Application progress"
+  },
+  "navigation": {
+    "next": "Next",
+    "back": "Back",
+    "submit": "Submit Application"
+  },
+  "lang": {
+    "english": "English",
+    "arabic": "العربية"
+  },
+  "step1": {
+    "title": "Personal Information",
+    "name": "Full Name",
+    "nationalId": "National ID",
+    "dateOfBirth": "Date of Birth",
+    "gender": "Gender",
+    "genderMale": "Male",
+    "genderFemale": "Female",
+    "genderOther": "Other",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "country": "Country",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "step2": {
+    "title": "Family & Financial Information",
+    "maritalStatus": "Marital Status",
+    "maritalSingle": "Single",
+    "maritalMarried": "Married",
+    "maritalDivorced": "Divorced",
+    "maritalWidowed": "Widowed",
+    "dependents": "Number of Dependents",
+    "employmentStatus": "Employment Status",
+    "employmentEmployed": "Employed",
+    "employmentUnemployed": "Unemployed",
+    "employmentSelfEmployed": "Self-employed",
+    "employmentRetired": "Retired",
+    "employmentStudent": "Student",
+    "monthlyIncome": "Monthly Income (AED)",
+    "housingStatus": "Housing Status",
+    "housingRent": "Rent",
+    "housingOwn": "Own",
+    "housingWithFamily": "Living with family",
+    "housingOther": "Other"
+  },
+  "step3": {
+    "title": "Situation Descriptions",
+    "currentFinancialSituation": "Current Financial Situation",
+    "employmentCircumstances": "Employment Circumstances",
+    "reasonForApplying": "Reason for Applying",
+    "helpMeWrite": "Help Me Write",
+    "aiExplanation": "Use AI assistance to help you describe your situation clearly and respectfully."
+  },
+  "ai": {
+    "dialogTitle": "AI Writing Assistant",
+    "loading": "Generating suggestion…",
+    "error": "Unable to generate a suggestion right now. Please try again.",
+    "accept": "Accept",
+    "acceptEdit": "Accept & Edit",
+    "discard": "Discard",
+    "placeholder": "The AI-generated suggestion will appear here…"
+  },
+  "submission": {
+    "successTitle": "Application Submitted",
+    "successMessage": "Your application has been submitted successfully. This was a mock submission.",
+    "errorTitle": "Submission Failed",
+    "errorMessage": "Something went wrong while submitting. Please try again."
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "number": "Please enter a valid number",
+    "date": "Please enter a valid date",
+    "minAge": "You must be at least 18 years old"
+  }
+}
